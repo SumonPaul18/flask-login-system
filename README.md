@@ -1,4 +1,4 @@
-# flask-authentication-system
+# Flask User Authentication System
 
 
 # Login page
